@@ -45,6 +45,11 @@ This project successfully leveraged unsupervised machine learning to extract val
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/4048a336-dde2-432a-8aa8-a82f827eb7da)
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/147663e0-f428-467a-be15-ed06ca4f1986)
 ![image](https://github.com/ShubhPathania/Bike-Sharing-Demand-Prediction/assets/149718190/fb4c872b-0202-413b-a888-add348c2087e)
+![rsz_nlp](https://github.com/user-attachments/assets/7e6c5eb6-036a-421d-b1a5-dc7f12eeb4d6)
+![rsz_gensim](https://github.com/user-attachments/assets/5c8437ed-4e6c-4848-9b32-146350ab0331)
+
+
+
 
 
 
