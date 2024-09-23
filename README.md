@@ -1,5 +1,7 @@
 # Zomato Restaurant Clustering and Sentiment Analysis
-<img src="https://github.com/user-attachments/assets/72219904-19ce-4a41-8caf-ff8d4012a348" alt="description" width="450" height="450"/>
+<p align="center">
+    <img width="450" height="450" src="https://github.com/user-attachments/assets/72219904-19ce-4a41-8caf-ff8d4012a348" alt="description"/>
+</p>
 
 # Introduction
 This project delves into the power of unsupervised machine learning to unlock valuable customer insights from Zomato's vast user data, focusing on the delivery service experience. By analyzing user reviews and exploring restaurant data, we aim to develop a system that empowers Zomato to:
